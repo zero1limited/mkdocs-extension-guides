@@ -1,0 +1,38 @@
+site_name: ZERO-1 Magento Extension Guides
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: black
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - toc.integrate
+    - search.suggest
+    - search.hilight
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/zero1limited
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/zero-1-ltd/
+copyright: |
+  &copy; 2025 <a href="https://www.zero1.co.uk/"  target="_blank" rel="noopener">ZERO-1 Ltd.</a>
