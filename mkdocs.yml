@@ -1,4 +1,5 @@
 site_name: ZERO-1 Magento Extension Guides
+site_url: https://docs.zero1.co.uk/
 theme:
   name: material
   palette:
