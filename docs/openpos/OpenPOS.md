@@ -15,34 +15,24 @@ OpenPOS requires Hyvä Themes & Hyvä Checkout in order to install. Alternativel
 [Changelog](CHANGELOG.md)
 
 
-# Installation
+## Overview
 
-```
-composer require zero1/open-pos
-```
+## Adding Products
 
-```
-php bin/magento setup:upgrade
-```
+### Barcode Scanning
 
-```
-php bin/magento deploy:mode:set production
-```
+## Returns & Exchanges
 
-# Configuration
+## Editing Prices / Promotions
 
-We appreciate feedback (including bugs or installation issues) via our new [community Slack Channel](https://join.slack.com/t/openpos-workspace/shared_invite/zt-32ozggysy-s1XeL_IcChy6PLLNmtUMeg). 
+## Complete Sale / Tender
 
-Configuration can be found in:
-[Stores] -> [Configuration] -> [OpenPOS] -> [Configuration]
+## Payments
 
-Once the module is installed, you can run `bin/magento openpos:setup-wizard` for guided setup of the POS store.
+### Cash Payments
+### Card Payments
 
+### Split Payments
 
-> [!TIP]
-> Incase you didn't already know, OpenPOS is built to run as a standard Magento website, therefore you need to perform all relevant domain and webserver configuration to ensure the site resolves and is externally accessible.
-
-
-# Theme Association
-As part of any traditional Hyvä Theme setup you might want to copy our base POS theme into app/design and inherit `openpos/default`
-If you are using our default template simply set your POS website theme to 'OpenPOS Default'
+## Receipts
+Email or Print
