@@ -45,6 +45,7 @@ nav:
   - 'Point Of Sale for Magento':
     - 'openpos/OpenPOS.md'
     - 'Late Registration': 'openpos/open-pos-late-registration.md'
+    - 'Layaways': 'openpos/open-pos-layaways.md'
     - 'Payments':
       - 'mollie': 'openpos/payments/open-pos-mollie.md'
       - 'Stripe': 'openpos/payments/pos-stripe-payment-link.md'

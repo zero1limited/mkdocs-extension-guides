@@ -65,7 +65,7 @@ To complete a sale:
 
 ---
 
-## Payments
+## Taking Payments / Tendering
 
 OpenPOS supports multiple payment methods to provide flexibility during checkout.
 
@@ -87,6 +87,10 @@ OpenPOS supports multiple payment methods to provide flexibility during checkout
 2. Enter the amounts for each payment type (e.g., cash and card).
 3. Confirm the transaction.
 
+### Gift Cards 
+
+### Store Credits 
+
 ---
 
 ## Receipts
@@ -96,6 +100,13 @@ OpenPOS allows you to issue receipts via email or print:
 1. After completing a sale, choose the receipt option.
 2. Select "Email" to send the receipt to the customer’s email address.
 3. Select "Print" to generate a physical receipt.
+
+## End Of Day Reports / Cashing Up
+
+
+
+
+
 
 ---
 
