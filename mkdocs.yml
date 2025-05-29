@@ -44,10 +44,10 @@ nav:
     - 'magento-extensions/admin-user-password-requirements.md'
   - 'Point Of Sale for Magento':
     - 'openpos/OpenPOS.md'
-    - 'openpos/open-pos-late-registration.md'
+    - 'Late Registration': 'openpos/open-pos-late-registration.md'
     - 'Payments':
-      - 'openpos/payments/open-pos-mollie.md'
-      - 'openpos/payments/pos-stripe-payment-link.md'
+      - 'mollie': 'openpos/payments/open-pos-mollie.md'
+      - 'Stripe': 'openpos/payments/pos-stripe-payment-link.md'
     - 'Hardware':
       - 'openpos/hardware/barcode-scanners.md'
       - 'openpos/hardware/receipt-printers.md'
