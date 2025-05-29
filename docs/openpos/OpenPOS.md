@@ -30,8 +30,8 @@ To add products to OpenPOS:
 OpenPOS supports barcode scanning for quick product identification. To use this feature:
 
 1. Connect a barcode scanner to your POS system.
-2. During checkout, scan the product barcode.
-3. The product details will be added to the cart automatically.
+2. Scan the barcode on the product
+3. The product will be added to the cart.
 
 ---
 
