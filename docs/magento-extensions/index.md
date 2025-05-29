@@ -3,7 +3,7 @@
 We have been developing Magento Extensions since 2008 and had some of the most popular extensions for Magento 1 available on the Connect Marketplace. We are now developing many more extensions for Magento 2 all of which will have full compatibility for Hyvä.
 
 
-## Installing our extensions using Composer - Recommended
+## Installion using Composer - Recommended
 
 Install the necessary Composer Keys, instructions are provided here https://extensions.zero1.co.uk/packages/ when you have purchased your extensions
 
@@ -18,3 +18,7 @@ composer require PACKAGE-NAME
 
 ```
 The composer name you need to enter above in replacement to PACKAGE-NAME is listed on your purchased packages page https://extensions.zero1.co.uk/packages/
+
+## Manual Installation
+
+If you need to manually install the extension (in app/code) please contact us via support@zero1.co.uk for assistance.
