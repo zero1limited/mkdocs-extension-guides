@@ -46,9 +46,11 @@ nav:
     - 'openpos/OpenPOS.md'
     - 'openpos/open-pos-late-registration.md'
     - 'Payments':
-      - 'openpos/open-pos-mollie.md'
+      - 'openpos/payments/open-pos-mollie.md'
+      - 'openpos/payments/pos-stripe-payment-link.md'
     - 'Hardware':
-      - 'openpos/hardware/barcode-scanner.md'
+      - 'openpos/hardware/barcode-scanners.md'
+      - 'openpos/hardware/receipt-printers.md'
   - 'Custom Development':
       - 'Overview': 'custom-magento-development.md'
 
