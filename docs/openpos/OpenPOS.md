@@ -8,6 +8,8 @@ OpenPOS requires Hyvä Themes & Hyvä Checkout in order to install. Alternativel
 
 # Info
 
+[TOC]
+
 [Installation](#installation)
 
 [Configuration](#configuration)
