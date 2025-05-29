@@ -44,7 +44,11 @@ nav:
     - 'magento-extensions/admin-user-password-requirements.md'
   - 'Point Of Sale for Magento':
     - 'openpos/OpenPOS.md'
-    - 'openpos/late-registration.md'
+    - 'openpos/open-pos-late-registration.md'
+    - 'Payments':
+      - 'openpos/open-pos-mollie.md'
+    - 'Hardware':
+      - 'openpos/hardware/barcode-scanner.md'
   - 'Custom Development':
       - 'Overview': 'custom-magento-development.md'
 
